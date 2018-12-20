@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Sung-Gwi Cho's Home Page
 
 You can use the [editor on GitHub](https://github.com/sungi-ch/sungi-ch.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
