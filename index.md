@@ -2,7 +2,7 @@
 
 
 ### About Me
-Ph.D. Candidate 
+Ph.D. Candidate  
 Graduate school of Information Science 
 Nara Institute of Science and Technology 
 8916-5, Takayama-cho, Ikoma, Nara, 630-0192, Japan 
