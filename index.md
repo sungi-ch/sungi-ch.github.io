@@ -1,12 +1,18 @@
 ## Welcome to Sung-Gwi Cho's Home Page
 
-You can use the [editor on GitHub](https://github.com/sungi-ch/sungi-ch.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+### Publications
+**International conference**
+1. Sung-Gwi Cho, Masahiro Yoshikawa, Ming Ding, Jun Takamatsu, Tsukasa Ogasawara, "Estimation of Hand Motion Based on Forearm Deformation," Proc. IEEE International Conference on Robotics and Biomimetics (ROBIO2018), pp. 2291-2296, Kuala Lumpur, Malaysia, Dec, 2018.
+2. Sung-Gwi Cho, Masahiro Yoshikawa, Ming Ding, Jun Takamatsu, Tsukasa Ogasawara, "Hand Motion Recognition Using a Distance Sensor Array," Proc. IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN2017), pp. 1459-1484, Lisbon, Portugal, Aug, 2017.
+3. Sung-Gwi Cho, Masahiro Yoshikawa, Kohei Baba, Kazunori Ogawa, Jun Takamatsu, Tsukasa Ogasawara, "Hand Motion Recognition Based on Forearm Deformation Measured with A Distance Sensor Array," Proc. Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC2016), pp.4955-4958, Orland, USA, Aug, 2016.
+**Domestic conference**
+
+### Publications
+**Grant
 
 ```markdown
 Syntax highlighted code block
@@ -27,11 +33,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sungi-ch/sungi-ch.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
