@@ -9,15 +9,16 @@ Email: cho.sungi.cg3[at]is.naist.jp
 
 ### Research Interests
 Main topic: Upper limb motion estimation based on bio-signal  
-Research fields: Human-Machine Interface, Bio-signal Processing, Biomedical enginering  
+Research fields: Human-Machine Interface, bio-signal Processing, biomedical enginering  
 
 ### Education
-2015/Apr. - 2017/Mar. M.S. degree  
+**M.S. degree**  
+2015/Apr. - 2017/Mar.   
 in Robotics Lab., Graduate School of Information Science,  
 Nara Institute of Science and Technology (NAIST)  
 Advised by Professor Tsukasa Ogasawara  
-
-2011/Apr. - 2015/Mar. B.S. degree  
+ **B.S. degree**   
+2011/Apr. - 2015/Mar.  
 in Faculty of Electrical & Information Science,  
 Korea university in Japan  
 
@@ -40,4 +41,4 @@ Language: Korean, Japanese, English
 ### Honor & Award
 Best research award, the Creative and International Competitiveness Project (CICP), 2017, Japan  
 Exemption from JASSO Scholarship Refund for Excellent Student, 2017, Japan  
-Best research award, the Creative and International Competitiveness Project (CICP), 2017, Japan  
+Best research award, the Creative and International Competitiveness Project (CICP), 2016, Japan  
