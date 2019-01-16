@@ -1,7 +1,7 @@
 ## Welcome to Sung-Gwi Cho's home page  
 
 ### About Me
-Sung-Gwi Cho
+Sung-Gwi Cho  
 Ph.D. Candidate
 Graduate school of Information Science  
 Nara Institute of Science and Technology  
