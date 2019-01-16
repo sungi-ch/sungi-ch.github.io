@@ -1,7 +1,8 @@
-## Welcome to Sung-Gwi Cho's Home Page  
+## Welcome to Sung-Gwi Cho's home page  
 
 ### About Me
-Ph.D. Candidate  
+Sung-Gwi Cho
+Ph.D. Candidate
 Graduate school of Information Science  
 Nara Institute of Science and Technology  
 8916-5, Takayama-cho, Ikoma, Nara, 630-0192, Japan  
