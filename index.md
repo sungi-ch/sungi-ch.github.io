@@ -1,4 +1,4 @@
-### About Me
+## About Me
 Sung-Gwi Cho  
 Ph.D. Candidate
 Graduate school of Information Science  
@@ -6,11 +6,11 @@ Nara Institute of Science and Technology
 8916-5, Takayama-cho, Ikoma, Nara, 630-0192, Japan  
 Email: cho.sungi.cg3[at]is.naist.jp  
 
-### Research Interests
+## Research Interests
 Main topic: Upper limb motion estimation based on bio-signal  
 Research fields: Human-Machine Interface, bio-signal Processing, biomedical enginering  
 
-### Education
+## Education
 **M.S. degree**  
 2015/Apr. - 2017/Mar.   
 in Robotics Lab., Graduate School of Information Science,  
@@ -21,23 +21,23 @@ Advised by Professor Tsukasa Ogasawara
 in Faculty of Electrical & Information Science,  
 Korea university in Japan  
 
-### Technical skills
+## Technical skills
 Programming: Python, C/C++/C#, Java, Matlab, R  
 Tools: Git, Tex, Visual Studio, ROS, 3DCAD (Fusion360, Inventor), Arduino, Processing  
 Language: Korean, Japanese, English  
 
-### Research Grant
-Research Grant (C) (grant number 2187007), Tateisi Science and Technology Foundation, 2018
+## Funding
+Research grant (C) (grant number 2187007), Tateisi Science and Technology Foundation, 2018
 
-### Honor & Award
+## Honor & Award
 1. Best research award, the Creative and International Competitiveness Project (CICP), 2017
 1. Best research award, the Creative and International Competitiveness Project (CICP), 2016
-1. Research Encouragement A ,Seiwa Memorial Foundation, 2015
-1. Research Encouragement B ,Seiwa Memorial Foundation, 2017
+1. Research encouragement A ,Seiwa Memorial Foundation, 2015
+1. Research encouragement B ,Seiwa Memorial Foundation, 2017
 1. Scholarship student, The Korean Scholarship Foundation, 2016
 1. Exemption from JASSO Scholarship Refund for Excellent Student, 2017
 
-### Publications
+## Publications
 **International conference**
 1. Sung-Gwi Cho, Masahiro Yoshikawa, Ming Ding, Jun Takamatsu, and Tsukasa Ogasawara, "Estimation of Hand Motion Based on Forearm Deformation," in Proceedings of the IEEE International Conference on Robotics and Biomimetics (ROBIO2018), pp. 2291-2296, Kuala Lumpur, Malaysia, Dec, 2018.
 1. Felix von Drigalski, Marcus Gall, Sung-Gwi Cho, Ming Ding, Jun Takamatsu, and Tsukasa Ogasawara, T. Ogasawara and T. Asfour: “Textile Identification Using Fingertip Motion and 3D Force Sensors in an Open-Source Gripper,” in Proceedings of the IEEE International Conference on Robotics and Biomimetics (ROBIO2017), pp. 424-429, Macau SAR, China, 2017. 
@@ -45,12 +45,12 @@ Research Grant (C) (grant number 2187007), Tateisi Science and Technology Founda
 1. Felix von Drigalski, Daiki Yoshioka, Wataru Yamazaki, Sung-Gwi Cho, Marcus Gall, Pedro Miguel Uriguen Eljuri, Viktor Hoerig, Jessica Beltran, Ming Ding, Jun Takamatsu, and Tsukasa Ogasawara, "NAIST Openhand M2S: A Versatile Two-Finger Gripper Adapted for Pulling and Tucking Textile," in Proceedings of the IEEE International Conference on Robotic Computing (IRC2017), pp. 117-122, Taiwan, Taichung, Apr, 2017
 1. Sung-Gwi Cho, Masahiro Yoshikawa, Kohei Baba, Kazunori Ogawa, Jun Takamatsu, and Tsukasa Ogasawara, "Hand Motion Recognition Based on Forearm Deformation Measured with A Distance Sensor Array," in Proceedings of the Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC2016), pp.4955-4958, Orland, USA, Aug, 2016.
 
-**International conference**
+**Domestic conference**
 1. 趙 崇貴, 吉川 雅博, 丁 明, 高松 淳, 小笠原司: “距離センサアレイを用いた上腕形状計測に基づく肘関節角度の推定,” 第36回日本ロボット学会学術講演会（RSJ2018）,3A1-05, 春日井, 9月, 2018. 
 1. 趙崇貴，清川拓哉，友近圭汰，吉川雅博，小笠原 司: "前腕形状計測に基づく手の動作認識によるロボットアームの操作," ヒューマンインタフェースシンポジウム2017, pp.941-944, 大阪, 9月, 2017.
 1. 趙崇貴, 吉川雅博, 丁明, 高松淳, 小笠原司, "距離センサアレイを用いた前腕形状計測に基づく手の関節角度の推定," ロボティクス・メカトロニクス講演会2017 (ROBOMECH2017), pp.2P2-M07, 郡山, 6月, 2017.
 1. Felix von Drigalski, 吉岡 大輝, Marcus Gall, Pedro Miguel Uriguen Eljuri, Wataru Yamazaki, Sung-Gwi Cho, Viktor Hoerig, Jessica Beltran,, Ming Ding, Jun Takamatsu and Tsukasa Ogasawara: "A robotic system for automated bed-making using a gripper specialized for textile manipulation", ロボティクス・メカトロニクス講演会2017 (ROBOMECH2017), 2P2-G10, 郡山, 6月, 2017.
-1. Felix von Drigalski, Daiki Yoshioka, Marcus Gall, Pedro Miguel Uriguen Eljuri, Wataru Yamazaki, Sung-Gwi Cho, Viktor Hoerig, Jessica Beltran, Ming Ding, Jun Takamatsu and Tsukasa Ogasawara: “A robotic system for automated bed-making using a gripper specialized for textile manipulation,” ロボティクス・メカトロニクス講演会2017 (ROBOMECH2017), 2P2-F10, 郡山, 6月, 2017.
-1. 趙崇貴, 吉川雅博, 丁明, 高松淳, 小笠原司: "前腕の三次元モデルに基づく距離センサアレイによる手の動作認識," 第17回計測自動制御学会システムインテグレーション部門講演会（SI2016）, pp.3K3-2, 札幌, 12月, 2016.
-神田将輝, 趙崇貴, 吉川雅博, 高松淳, 小笠原司: "シーンに応じてエンドエフェクタを換装可能な2自由度電動義手," ロボティクスメカトロニクス講演会2016 (ROBOMECH2016), pp.2A1-02a4, 横浜, 6月, 2016.
-1. 趙崇貴, 神田将輝, 吉川雅博, 高松淳, 小笠原司: "箸による食事支援を目的とした電動義手の開発," 日本家政学会第68回大会, pp.P-138, 名古屋, 5月, 2016.
+1. Viktor Hoerig, Felix von Drigalski, Daiki Yoshioka, Marcus Gall, Pedro Miguel Uriguen Eljuri, Wataru Yamazaki, Sung-Gwi Cho, Jessica Beltran, Ming Ding, Jun Takamatsu and Tsukasa Ogasawara: "Development of an Elastic Finger Joint of a Robotic Gripper For Picking Up Thin, Easily Deformable Objects," ロボティクス・メカトロニクス講演会2017 (ROBOMECH2017), 2P1-D08, 郡山, 6月, 2017.
+1. 趙崇貴, 吉川雅博, 丁明, 高松淳, 小笠原司: "前腕の三次元モデルに基づく距離センサアレイによる手の動作認識," 第17回計測自動制御学会システムインテグレーション部門講演会（SI2016）, 3K3-2, 札幌, 12月, 2016.
+神田将輝, 趙崇貴, 吉川雅博, 高松淳, 小笠原司: "シーンに応じてエンドエフェクタを換装可能な2自由度電動義手," ロボティクスメカトロニクス講演会2016 (ROBOMECH2016), 2A1-02a4, 横浜, 6月, 2016.
+1. 趙崇貴, 神田将輝, 吉川雅博, 高松淳, 小笠原司: "箸による食事支援を目的とした電動義手の開発," 日本家政学会第68回大会, P-138, 名古屋, 5月, 2016.
