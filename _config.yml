@@ -1,2 +1,12 @@
 theme: jekyll-theme-minimal
 title: Sung-Gwi Cho's home page
+
+description:
+owner: Sung-Gwi Cho # or company name
+first_published: 2018 # if migrating another site, the year of your first publish
+social:
+  twitter: https://twitter.com/<username>
+  github: https://github.com/<username>
+  linkedin-square: https://linkedin.com/in/<username>
+  facebook-official: https://facebook.com/<username>
+  google-plus-square: https://plus.google.com/u/0/+<username>
