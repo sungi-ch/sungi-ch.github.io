@@ -8,7 +8,7 @@ Email: cho.sungi.cg3[at]is.naist.jp
 
 ## Research Interests
 Main topic: Upper limb motion estimation based on bio-signal  
-Research fields: Human-Machine Interface, bio-signal Processing, biomedical enginering  
+Research fields: Human-Machine Interface, bio-signal Processing, biomedical engineering  
 
 ## Education
 **M.S. degree**  
