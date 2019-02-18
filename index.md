@@ -26,14 +26,19 @@ Programming: Python, C/C++/C#, Java, Matlab, R
 Tools: Git, Tex, Visual Studio, ROS, 3DCAD (Fusion360, Inventor), Arduino, Processing  
 Language: Korean, Japanese, English  
 
+## Societies
+Institute of Electrical and Electronics Engineers (IEEE)  
+The Robotics Society of Japan (RSJ)  
+The Japan Society of Mechanical Engineering (JSME)  
+
 ## Funding
 Research grant (C) (grant number 2187007), Tateisi Science and Technology Foundation, 2018
 
 ## Honor & Award
 1. Best research award, the Creative and International Competitiveness Project (CICP), 2017
 1. Best research award, the Creative and International Competitiveness Project (CICP), 2016
-1. Research encouragement A ,Seiwa Memorial Foundation, 2015
-1. Research encouragement B ,Seiwa Memorial Foundation, 2017
+1. Research encouragement A, Seiwa Memorial Foundation, 2015
+1. Research encouragement B, Seiwa Memorial Foundation, 2017
 1. Scholarship student, The Korean Scholarship Foundation, 2016
 1. Exemption from JASSO Scholarship Refund for Excellent Student, 2017
 
