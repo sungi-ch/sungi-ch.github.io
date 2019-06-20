@@ -53,6 +53,7 @@ and Deep Neural Networks", in Proceedings of the Annual International Conference
 1. <u>Sung-Gwi Cho</u>, Masahiro Yoshikawa, Kohei Baba, Kazunori Ogawa, Jun Takamatsu, and Tsukasa Ogasawara, "Hand Motion Recognition Based on Forearm Deformation Measured with A Distance Sensor Array," in Proceedings of the Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC2016), pp.4955-4958, Orland, USA, Aug, 2016.
 
 **Domestic conference**
+1. 倉角 哲也, <u>趙 崇貴</u>, 丁 明, Gustavo Alfonso Garcia Ricardez, 高松 淳, 小笠原 司: “上肢動作推定のための上腕形状計測可能な距離センサアレイの開発,” ロボティクス・メカトロニクス講演会2019, 2P1-N06, 広島, 5月, 2019. 
 1. 樋口 太也, <u>趙 崇貴</u>, 丁 明, 高松 淳, 小笠原 司: “歩行時における一部身体動作を用いた全身動作の推定,” 日本機械学会 シンポジウム：スポーツ工学・ヒューマンダイナミクス2018（SHD2018）, A-13,　京都, 11月, 2018.
 1. 木下 勝吏, <u>趙 崇貴</u>, 丁 明, 高松 淳, 小笠原 司: “IMUと距離センサを用いたボート競技の漕艇動作の計測と精度評価,” シンポジウム：スポーツ工学・ヒューマンダイナミクス2018（SHD2018）, A-15,　京都, 11月, 2018.
 1. <u>趙 崇貴</u>, 吉川 雅博, 丁 明, 高松 淳, 小笠原 司: “距離センサアレイを用いた上腕形状計測に基づく肘関節角度の推定,” 第36回日本ロボット学会学術講演会（RSJ2018）,3A1-05, 春日井, 9月, 2018. 
