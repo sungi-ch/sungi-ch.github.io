@@ -42,12 +42,14 @@ The Japan Society of Mechanical Engineering (JSME)
 1. Research encouragement A, Seiwa Memorial Foundation, 2017
 1. Research encouragement B, Seiwa Memorial Foundation, 2015
 1. Exemption from JASSO Scholarship Refund for Excellent Student, 2017
+1. Scholarship student, The Yushin Science Education promotion association, 2017 - 2019
+1. Scholarship student, The Korean Scholarship Foundation, 2019
 1. Scholarship student, The Korean Scholarship Foundation, 2016
 
 ## Publications
 **International conference**
 1. Kurasumi Tetsuya, <u>Sung-Gwi Cho</u>, Ming Ding, Gustavo Alfonso Garcia Ricardez, Jun Takamatsu, and Tsukasa Ogasawara, "Simultaneous Estimation of Elbow Joint Angle and Load Based on Upper Arm Deformation", in Proceedings of the IEEE International Conference on Cyborg and Bionic Systems (CBS), (accepted), Munich, Germany, Sep, 2019.
-1. Mikihisa Nagashima, <u>Sung-Gwi Cho</u>, Ming Ding, Jun Takamatsu, and Tsukasa Ogasawara, "Prediction of Plantar Forces During Gait Using Wearable Sensors and Deep Neural Networks", in Proceedings of the Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC2019), (accepted), Berlin, Germany, Jul, 2019.
+1. Mikihisa Nagashima, <u>Sung-Gwi Cho</u>, Ming Ding, Jun Takamatsu, and Tsukasa Ogasawara, "Prediction of Plantar Forces During Gait Using Wearable Sensors and Deep Neural Networks", in Proceedings of the Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC2019), pp. 3629-3632, Berlin, Germany, Jul, 2019.
 1. <u>Sung-Gwi Cho</u>, Masahiro Yoshikawa, Ming Ding, Jun Takamatsu, and Tsukasa Ogasawara, "Estimation of Hand Motion Based on Forearm Deformation," in Proceedings of the IEEE International Conference on Robotics and Biomimetics (ROBIO2018), pp. 2291-2296, Kuala Lumpur, Malaysia, Dec, 2018.
 1. Felix von Drigalski, Marcus Gall, <u>Sung-Gwi Cho</u>, Ming Ding, Jun Takamatsu, Tsukasa Ogasawar, and Tamim Asfour: “Textile Identification Using Fingertip Motion and 3D Force Sensors in an Open-Source Gripper,” in Proceedings of the IEEE International Conference on Robotics and Biomimetics (ROBIO2017), pp. 424-429, Macau SAR, China, 2017. 
 1. <u>Sung-Gwi Cho</u>, Masahiro Yoshikawa, Ming Ding, Jun Takamatsu, and Tsukasa Ogasawara, "Hand Motion Recognition Using a Distance Sensor Array," in Proceedings of the IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN2017), pp. 1459-1484, Lisbon, Portugal, Aug, 2017.
