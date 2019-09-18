@@ -57,10 +57,11 @@ The Japan Society of Mechanical Engineering (JSME)
 1. <u>Sung-Gwi Cho</u>, Masahiro Yoshikawa, Kohei Baba, Kazunori Ogawa, Jun Takamatsu, and Tsukasa Ogasawara, "Hand Motion Recognition Based on Forearm Deformation Measured with A Distance Sensor Array," in Proceedings of the Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC2016), pp.4955-4958, Orland, USA, Aug, 2016.
 
 **Domestic conference**
+1. <u>趙 崇貴</u>, 倉角 哲也, 吉川 雅博, 丁 明, 高松 淳, 小笠原 司：“深層学習を用いた上腕形状変化に基づく肘と前腕の関節角度推定,” 第37回日本ロボット学会学術講演会（RSJ2019）, 1N2-02, 2019. 
 1. 倉角 哲也, <u>趙 崇貴</u>, 丁 明, Gustavo Alfonso Garcia Ricardez, 高松 淳, 小笠原 司: “上肢動作推定のための上腕形状計測可能な距離センサアレイの開発,” ロボティクス・メカトロニクス講演会2019, 2P1-N06, 広島, 5月, 2019. 
 1. 樋口 太也, <u>趙 崇貴</u>, 丁 明, 高松 淳, 小笠原 司: “歩行時における一部身体動作を用いた全身動作の推定,” 日本機械学会 シンポジウム：スポーツ工学・ヒューマンダイナミクス2018（SHD2018）, A-13,　京都, 11月, 2018.
 1. 木下 勝吏, <u>趙 崇貴</u>, 丁 明, 高松 淳, 小笠原 司: “IMUと距離センサを用いたボート競技の漕艇動作の計測と精度評価,” シンポジウム：スポーツ工学・ヒューマンダイナミクス2018（SHD2018）, A-15,　京都, 11月, 2018.
-1. <u>趙 崇貴</u>, 吉川 雅博, 丁 明, 高松 淳, 小笠原 司: “距離センサアレイを用いた上腕形状計測に基づく肘関節角度の推定,” 第36回日本ロボット学会学術講演会（RSJ2018）,3A1-05, 春日井, 9月, 2018. 
+1. <u>趙 崇貴</u>, 吉川 雅博, 丁 明, 高松 淳, 小笠原 司: “距離センサアレイを用いた上腕形状計測に基づく肘関節角度の推定,” 第36回日本ロボット学会学術講演会（RSJ2018）, 3A1-05, 春日井, 9月, 2018. 
 1. <u>趙 崇貴</u>, 清川 拓哉, 友近 圭汰, 吉川 雅博, 小笠原 司: "前腕形状計測に基づく手の動作認識によるロボットアームの操作," ヒューマンインタフェースシンポジウム2017, pp.941-944, 大阪, 9月, 2017.
 1. <u>趙 崇貴</u>, 吉川 雅博, 丁 明, 高松 淳, 小笠原 司: "距離センサアレイを用いた前腕形状計測に基づく手の関節角度の推定," ロボティクス・メカトロニクス講演会2017 (ROBOMECH2017), pp.2P2-M07, 郡山, 6月, 2017.
 1. Felix von Drigalski, Daiki Yoshioka, Marcus Gall, Pedro Miguel Uriguen Eljuri, Wataru Yamazaki, <u>Sung-Gwi Cho</u>, Viktor Hoerig, Jessica Beltran,, Ming Ding, Jun Takamatsu and Tsukasa Ogasawara: "A robotic system for automated bed-making using a gripper specialized for textile manipulation", ロボティクス・メカトロニクス講演会2017 (ROBOMECH2017), 2P2-G10, 郡山, 6月, 2017.
