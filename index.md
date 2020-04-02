@@ -1,23 +1,39 @@
+![face](./images/face.jpg)
+
 ## About Me
 Sung-Gwi Cho  
-Ph.D. Candidate
-Graduate school of Information Science  
-Nara Institute of Science and Technology  
-8916-5, Takayama-cho, Ikoma, Nara, 630-0192, Japan  
-Email: cho.sungi.cg3[at]is.naist.jp  
+Assistant Professor
+Robotics Laboratory, Information Science Division,
+Graduate school of Science and Technology,
+Nara Institute of Science and Technology
+
+Addres: 8916-5, Takayama-cho, Ikoma, Nara, 630-0192, Japan  
+Email: cho[at]is.naist.jp  
+Tel: 0743-72-5373
 
 ## Research Interests
 Main topic: Upper limb motion estimation based on bio-signal  
-Research fields: Biomedical engineering, human-Machine Interface, bio-signal Processing
+Research fields: Biomedical engineering, human-Machine Interface, Bio-signal Processing
+
+## Professional Experence
+Assistant Professor (Apr./2020 - Present)
+Robotics Laboratory, Information Science Division,
+Graduate school of Science and Technology,
+Nara Institute of Science and Technology
 
 ## Education
-**M.S. degree**  
-2015/Apr. - 2017/Mar.   
+**Ph.D. degree in Engineering**  
+Apr./2017 - Mar./2020   
 in Robotics Lab., Graduate School of Information Science,  
 Nara Institute of Science and Technology (NAIST)  
 Advised by Professor Tsukasa Ogasawara  
- **B.S. degree**   
-2011/Apr. - 2015/Mar.  
+**M.S. degree in Engineering**  
+Apr./2015 - Mar./2017  
+in Robotics Lab., Graduate School of Information Science,  
+Nara Institute of Science and Technology (NAIST)  
+Advised by Professor Tsukasa Ogasawara  
+ **B.S. degree in Engineering**   
+Apr./2011 - Mar./2015  
 in Faculty of Electrical & Information Science,  
 Korea university in Japan  
 
