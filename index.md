@@ -48,6 +48,7 @@ The Robotics Society of Japan (RSJ)
 The Japan Society of Mechanical Engineering (JSME)  
 
 ## Funding
+1. Grant-in-Aid for Young Scientists (Start-up), 2020-2021
 1. Research grant (C) (grant number 2187007), Tateisi Science and Technology Foundation, 2018
 1. The Creative and International Competitiveness Project (CICP), 2017
 1. The Creative and International Competitiveness Project (CICP), 2016
@@ -64,6 +65,8 @@ The Japan Society of Mechanical Engineering (JSME)
 
 ## Publications
 **Journal**
+1. Tetsuya Kurasumi, <u>Sung-Gwi Cho</u>, Ming Ding, Gustavo Alfonso Garcia Ricardez, Masahiro Yoshikawa, Jun Takamatsu and Tsukasa Ogasawara: “Simultaneous Estimation of Upper Limb Pose and Joint Torque Based on Upper Arm Deformation”, IEEE Transactions on Medical Robotics and Bionics, vol. 2, no. 3, pp. 374-381, 2020.
+1. Ming Ding, Mikihisa Nagashima, <u>Sung-Gwi Cho</u>, Jun Takamatsu and Tsukasa Ogasawara: “Control of Walking Assist Exoskeleton With Time-delay Based on the Prediction of Plantar Force”, IEEE Access, vol. 8, pp. 138642-138651, 2020. 
 1. <u>Sung-Gwi Cho</u>, Masahiro Yoshikawa, Ming Ding, Jun Takamatsu, and Tsukasa Ogasawara, “Machine-learning-based Hand Motion Recognition System by Measuring Forearm Deformation with a Distance Sensor Array,” International Journal of Intelligent Robotics and Applications, vol. 3, no. 4, pp. 418-429, 2019.
 
 **International conference**
