@@ -12,8 +12,8 @@ Email: cho[at]is.naist.jp
 Tel: 0743-72-5373
 
 ## Research Interests
-Main topic: Upper limb motion estimation based on bio-signal  
-Research fields: Biomedical engineering, human-Machine Interface, Bio-signal Processing
+Main topic: Estimation and analysis of Upper limb motion 
+Research fields: Biomedical engineering, human-machine Interface, bio-signal Processing
 
 ## Professional Experence
 Assistant Professor (Apr./2020 - Present)  
@@ -32,10 +32,6 @@ Apr./2015 - Mar./2017
 in Robotics Lab., Graduate School of Information Science,  
 Nara Institute of Science and Technology (NAIST)  
 Advised by Professor Tsukasa Ogasawara  
- **B.S. degree in Engineering**   
-Apr./2011 - Mar./2015  
-in Faculty of Electrical & Information Science,  
-Korea university in Japan  
 
 ## Technical skills
 Programming: Python, C/C++/C#, Java, Matlab, R  
@@ -70,7 +66,7 @@ The Japan Society of Mechanical Engineering (JSME)
 1. <u>Sung-Gwi Cho</u>, Masahiro Yoshikawa, Ming Ding, Jun Takamatsu, and Tsukasa Ogasawara, “Machine-learning-based Hand Motion Recognition System by Measuring Forearm Deformation with a Distance Sensor Array,” International Journal of Intelligent Robotics and Applications, vol. 3, no. 4, pp. 418-429, 2019.
 
 **International conference**
-1. Tomoko Yui, Tomoki Ishikura, <u>Sung-Gwi Cho</u>, Ming Ding, Jun Takamatsu, Tsukasa Ogasawara, “A Quantitative Measurement of Hand Scaling Motion for Dental Hygienist Training,” in Proceedings of the Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC2020), pp. xx-xx, Online, Jul, 2020.
+1. Tomoko Yui, Tomoki Ishikura, <u>Sung-Gwi Cho</u>, Ming Ding, Jun Takamatsu, Tsukasa Ogasawara, “A Quantitative Measurement of Hand Scaling Motion for Dental Hygienist Training,” in Proceedings of the Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC2020), pp. xx-xx, Online, Jul, 2020. (Accepted)
 1. <u>Sung-Gwi Cho</u>, Tetsuya Kurasumi, Masahiro Yoshikawa, Ming Ding, Jun Takamatsu, and Tsukasa Ogasawara, “Estimation of Forearm Pose Based on Upper Arm Deformation Using a Deep Neural Network,” in Proceedings of the IEEE International Conference on Robotics and Biomimetics (ROBIO2018), pp. 1245-1250, Dali, China, Dec, 2019.
 1. Tetsuya Kurasumi, <u>Sung-Gwi Cho</u>, Ming Ding, Gustavo Alfonso Garcia Ricardez, Jun Takamatsu, and Tsukasa Ogasawara, "Simultaneous Estimation of Elbow Joint Angle and Load Based on Upper Arm Deformation", in Proceedings of the IEEE International Conference on Cyborg and Bionic Systems (CBS), pp. 136-141, Munich, Germany, Sep, 2019.
 1. Mikihisa Nagashima, <u>Sung-Gwi Cho</u>, Ming Ding, Jun Takamatsu, and Tsukasa Ogasawara, "Prediction of Plantar Forces During Gait Using Wearable Sensors and Deep Neural Networks", in Proceedings of the Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC2019), pp. 3629-3632, Berlin, Germany, Jul, 2019.
