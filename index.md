@@ -33,31 +33,11 @@ in Robotics Lab., Graduate School of Information Science,
 Nara Institute of Science and Technology (NAIST)  
 Advised by Professor Tsukasa Ogasawara  
 
-## Technical skills
-Programming: Python, C/C++/C#, Java, Matlab, R  
-Tools: Git, Tex, Visual Studio, ROS, 3DCAD (Fusion360, Inventor), Arduino, Processing  
-Language: Korean, Japanese, English  
-
-## Societies
-Institute of Electrical and Electronics Engineers (IEEE)  
-The Robotics Society of Japan (RSJ)  
-The Japan Society of Mechanical Engineering (JSME)  
-
 ## Funding
 1. Grant-in-Aid for Young Scientists (Start-up), 2020-2021
 1. Research grant (C) (grant number 2187007), Tateisi Science and Technology Foundation, 2018
 1. The Creative and International Competitiveness Project (CICP), 2017
 1. The Creative and International Competitiveness Project (CICP), 2016
-
-## Honor & Award
-1. Best research award, the Creative and International Competitiveness Project (CICP), 2017
-1. Best research award, the Creative and International Competitiveness Project (CICP), 2016
-1. Research encouragement A, Seiwa Memorial Foundation, 2017
-1. Research encouragement B, Seiwa Memorial Foundation, 2015
-1. Exemption from JASSO Scholarship Refund for Excellent Student, 2017
-1. Scholarship student, The Yushin Science Education Promotion Association, 2017 - 2019
-1. Scholarship student, The Korean Scholarship Foundation, 2019
-1. Scholarship student, The Korean Scholarship Foundation, 2016
 
 ## Publications
 **Journal**
@@ -89,3 +69,13 @@ The Japan Society of Mechanical Engineering (JSME)
 1. <u>趙 崇貴</u>, 吉川 雅博, 丁 明, 高松 淳, 小笠原 司: "前腕の三次元モデルに基づく距離センサアレイによる手の動作認識," 第17回計測自動制御学会システムインテグレーション部門講演会（SI2016）, 3K3-2, 札幌, 12月, 2016.
 1. 神田 将輝, <u>趙 崇貴</u>, 吉川 雅博, 高松 淳, 小笠原 司: "シーンに応じてエンドエフェクタを換装可能な2自由度電動義手," ロボティクスメカトロニクス講演会2016 (ROBOMECH2016), 2A1-02a4, 横浜, 6月, 2016.
 1. <u>趙 崇貴</u>, 神田 将輝, 吉川 雅博, 高松 淳, 小笠原 司: "箸による食事支援を目的とした電動義手の開発," 日本家政学会第68回大会, P-138, 名古屋, 5月, 2016.
+
+## Technical skills
+Programming: Python, C/C++/C#, Java, Matlab, R  
+Tools: Git, Tex, Visual Studio, ROS, 3DCAD (Fusion360, Inventor), Arduino, Processing  
+Language: Korean, Japanese, English  
+
+## Societies
+Institute of Electrical and Electronics Engineers (IEEE)  
+The Robotics Society of Japan (RSJ)  
+The Japan Society of Mechanical Engineering (JSME)  
