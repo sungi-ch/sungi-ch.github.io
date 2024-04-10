@@ -2,26 +2,29 @@
 
 ## About Me
 Sung-Gwi Cho  
-Assistant Professor  
-Robotics Laboratory, Division of Information Science,  
-Graduate school of Science and Technology,  
-Nara Institute of Science and Technology  
-
-Addres: 8916-5, Takayama-cho, Ikoma, Nara, 630-0192, Japan  
-Email: cho[at]is.naist.jp  
-Tel: 0743-72-5373
+Assistant Professor (Apr./2024 -present)\
+Biomechatronics Laboratory,\
+Division of Electronic Information and Biomedical Engineering,\
+School of Science and Engineering,\
+Tokyo Denki University
 
 ## Research Interests
-Main topic: Estimation and analysis of Upper limb motion 
-Research fields: Biomedical engineering, human-machine Interface, bio-signal Processing
+Main topic: Estimation and analysis of upper limb motion\
+Research fields: Life support engineering, human-machine Interface
 
 ## Professional Experence
-Assistant Professor (Apr./2020 - Present)  
-Robotics Laboratory, Information Science Division,  
-Graduate school of Science and Technology,  
-Nara Institute of Science and Technology  
+Assistant Professor (Apr./2022 - Mar./2024)\
+Biomechatronics Laboratory,\
+Division of Electronic Engineering,\
+School of Science and Engineering,\
+Tokyo Denki University
 
-## Education
+Assistant Professor (Apr./2020 - Mar./2022)\
+Robotics Laboratory, Information Science Division,\
+Graduate school of Science and Technology,\
+Nara Institute of Science and Technology
+
+## Educational Background
 **Ph.D. degree in Engineering**  
 Apr./2017 - Mar./2020   
 in Robotics Lab., Graduate School of Information Science,  
@@ -34,27 +37,39 @@ Nara Institute of Science and Technology (NAIST)
 Advised by Professor Tsukasa Ogasawara  
 
 ## Funding
-1. Grant-in-Aid for Young Scientists (Start-up), 2020-2021
-1. Research grant (C) (grant number 2187007), Tateisi Science and Technology Foundation, 2018
-1. The Creative and International Competitiveness Project (CICP), 2017
-1. The Creative and International Competitiveness Project (CICP), 2016
+1. Grant-in-Aid for Scientific Research (C), 2021-2023
+1. Grant-in-Aid for Young Scientists (Start-up), 2020-2021.
+1. Research grant (C) (grant number 2187007), Tateisi Science and Technology Foundation, 2018-2020.
+1. The Creative and International Competitiveness Project (CICP) of Nara Institute of Science and Technology (NAIST), 2017.
+1. The Creative and International Competitiveness Project (CICP) of Nara Institute of Science and Technology (NAIST), 2016.
 
 ## Publications
 **Journal**
-1. Tetsuya Kurasumi, <u>Sung-Gwi Cho</u>, Ming Ding, Gustavo Alfonso Garcia Ricardez, Masahiro Yoshikawa, Jun Takamatsu and Tsukasa Ogasawara: “Simultaneous Estimation of Upper Limb Pose and Joint Torque Based on Upper Arm Deformation”, IEEE Transactions on Medical Robotics and Bionics, vol. 2, no. 3, pp. 374-381, 2020.
-1. Ming Ding, Mikihisa Nagashima, <u>Sung-Gwi Cho</u>, Jun Takamatsu and Tsukasa Ogasawara: “Control of Walking Assist Exoskeleton With Time-delay Based on the Prediction of Plantar Force”, IEEE Access, vol. 8, pp. 138642-138651, 2020. 
+1. <u>Sung-Gwi Cho</u>, Muhammad Akmal Bin Mohammed Zaffir, Masahiro Yoshikawa, Jun Takamatsu and Takahiro Wada: “Influence of Forearm Postures on Hand-Wrist Gesture Recognition With Forearm Deformation Measurements”, IEEE Transactions on Medical Robotics and Bionics, 2024.
+1. Tomoki Ishikura, Yuki Kitamura, Wataru Sato, Jun Takamatsu, Akishige Yuguchi, <u>Sung-Gwi Cho</u>, Ming Ding, Sakiko Yoshikawa and Tsukasa Ogasawara: “Pleasant stroke touch on human back by a human and a robot,” Sensors, vol. 23, no. 3, pp. 1136, 2020.
+1. Tomoko Yui, <u>Sung-Gwi Cho</u>, Yuki Sato, Yasuaki Orita, Ming Ding, Jun Takamatsu, Takahiro Wada and Tsukasa Ogasawara: “Evaluation of Hand-Scaling Skills of Dental Hygienist Students: Identification of Contact Between Hand-Scaler Blade Tip and Tooth Surface”, IEEE Access, vol. 10, pp. 120640-120649, 2022.
+1. Tetsuya Kurasumi, <u>Sung-Gwi Cho</u>, Ming Ding, Gustavo Alfonso Garcia Ricardez, Masahiro Yoshikawa, Jun Takamatsu and Tsukasa Ogasawara: “Simultaneous Estimation of Upper Limb Pose and Joint Torque Based on Upper Arm Deformation,” IEEE Transactions on Medical Robotics and Bionics, vol. 2, no. 3, pp. 374-381, 2020.
+1. Ming Ding, Mikihisa Nagashima, <u>Sung-Gwi Cho</u>, Jun Takamatsu and Tsukasa Ogasawara: “Control of Walking Assist Exoskeleton With Time-delay Based on the Prediction of Plantar Force,” IEEE Access, vol. 8, pp. 138642-138651, 2020. 
 1. <u>Sung-Gwi Cho</u>, Masahiro Yoshikawa, Ming Ding, Jun Takamatsu, and Tsukasa Ogasawara, “Machine-learning-based Hand Motion Recognition System by Measuring Forearm Deformation with a Distance Sensor Array,” International Journal of Intelligent Robotics and Applications, vol. 3, no. 4, pp. 418-429, 2019.
 
-**International conference**
-1. Tomoko Yui, Tomoki Ishikura, <u>Sung-Gwi Cho</u>, Ming Ding, Jun Takamatsu, Tsukasa Ogasawara, “A Quantitative Measurement of Hand Scaling Motion for Dental Hygienist Training,” in Proceedings of the Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC2020), pp. xx-xx, Online, Jul, 2020. (Accepted)
-1. <u>Sung-Gwi Cho</u>, Tetsuya Kurasumi, Masahiro Yoshikawa, Ming Ding, Jun Takamatsu, and Tsukasa Ogasawara, “Estimation of Forearm Pose Based on Upper Arm Deformation Using a Deep Neural Network,” in Proceedings of the IEEE International Conference on Robotics and Biomimetics (ROBIO2018), pp. 1245-1250, Dali, China, Dec, 2019.
-1. Tetsuya Kurasumi, <u>Sung-Gwi Cho</u>, Ming Ding, Gustavo Alfonso Garcia Ricardez, Jun Takamatsu, and Tsukasa Ogasawara, "Simultaneous Estimation of Elbow Joint Angle and Load Based on Upper Arm Deformation", in Proceedings of the IEEE International Conference on Cyborg and Bionic Systems (CBS), pp. 136-141, Munich, Germany, Sep, 2019.
-1. Mikihisa Nagashima, <u>Sung-Gwi Cho</u>, Ming Ding, Jun Takamatsu, and Tsukasa Ogasawara, "Prediction of Plantar Forces During Gait Using Wearable Sensors and Deep Neural Networks", in Proceedings of the Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC2019), pp. 3629-3632, Berlin, Germany, Jul, 2019.
-1. <u>Sung-Gwi Cho</u>, Masahiro Yoshikawa, Ming Ding, Jun Takamatsu, and Tsukasa Ogasawara, "Estimation of Hand Motion Based on Forearm Deformation," in Proceedings of the IEEE International Conference on Robotics and Biomimetics (ROBIO2018), pp. 2291-2296, Kuala Lumpur, Malaysia, Dec, 2018.
-1. Felix von Drigalski, Marcus Gall, <u>Sung-Gwi Cho</u>, Ming Ding, Jun Takamatsu, Tsukasa Ogasawar, and Tamim Asfour: “Textile Identification Using Fingertip Motion and 3D Force Sensors in an Open-Source Gripper,” in Proceedings of the IEEE International Conference on Robotics and Biomimetics (ROBIO2017), pp. 424-429, Macau SAR, China, 2017. 
-1. <u>Sung-Gwi Cho</u>, Masahiro Yoshikawa, Ming Ding, Jun Takamatsu, and Tsukasa Ogasawara, "Hand Motion Recognition Using a Distance Sensor Array," in Proceedings of the IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN2017), pp. 1459-1484, Lisbon, Portugal, Aug, 2017.
-1. Felix von Drigalski, Daiki Yoshioka, Wataru Yamazaki, <u>Sung-Gwi Cho</u>, Marcus Gall, Pedro Miguel Uriguen Eljuri, Viktor Hoerig, Jessica Beltran, Ming Ding, Jun Takamatsu, and Tsukasa Ogasawara, "NAIST Openhand M2S: A Versatile Two-Finger Gripper Adapted for Pulling and Tucking Textile," in Proceedings of the IEEE International Conference on Robotic Computing (IRC2017), pp. 117-122, Taiwan, Taichung, Apr, 2017
-1. <u>Sung-Gwi Cho</u>, Masahiro Yoshikawa, Kohei Baba, Kazunori Ogawa, Jun Takamatsu, and Tsukasa Ogasawara, "Hand Motion Recognition Based on Forearm Deformation Measured with A Distance Sensor Array," in Proceedings of the Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC2016), pp.4955-4958, Orland, USA, Aug, 2016.
+**Letter, Brief Resaerch report**
+1. Tomoki Ishikura, Wataru Sato, Jun Takamatsu, Akishige Yuguchi, <u>Sung-Gwi Cho</u>, Ming Ding, Sakiko Yoshikawa, Tsukasa Ogasawara, "Delivery of pleasant stroke touch via robot in older adults," Frontiers in psychology, vol. 14, pp. 1292178-1292178.
+1. 湯口彰重, 豊田真行, 趙崇貴, 吉野幸一郎, 高松淳, 中澤篤志, 小笠原司, "曲面板を用いた赤外線漏れ全反射方式でのユマニチュードの触れ始めの解析のための接触面情報の取得", 日本ロボット学会誌, 41巻, 10号, pp. 893-896, 2023.
+
+**International conference (Full paper)**
+1. <u>Sung-Gwi Cho</u>, Shinnosuke Odan, Masahiro Yoshikawa and Kengo Ohnishi, “Wrist Joint Angle Estimation Based on Simultaneous Measurement of Distance and Force on the Forearm,” in Proceedings of the Annual Conference of the Society of Instrument and Control Engineers (SICE), pp. 964-969, Mie, Japan, Sep, 2023.
+1. Akihiko Tsukahara, <u>Sung-Gwi Cho</u>, Keita Tanaka, Akihiko Homma and Yoshinori Uchikawa, “Design and Trial Production FPGA based Stochastic Resonance Circuit Using LVDS and an Examination for Surface EMG Measurement,” in Proceedings of the Annual Conference of the Society of Instrument and Control Engineers (SICE), pp. 345-350, Mie, Japan, Sep, 2023.
+1. Hirochika Matsui, Kengo Ohnishi and <u>Sung-Gwi Cho</u>, “Skin Impedance Estimation System for Voltage-mode Electrical Stimulator with an AC Bridge Circuit,” in Proceedings of the Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), pp. 1-4, Sydney, Australia, Jul, 2021.
+1. <u>Sung-Gwi Cho</u>, Mayuki Toyoda, Ming Ding, Jun Takamatsu, Chiaki Yokota and Tsukasa Ogasawara, “Analysis of Skin Deformation Differences on the Upper Arm Between Active and Passive Movements During Elbow Flexion and Extension,” in Proceedings of the Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), pp. 6187-6191, Online, Nov, 2021.
+1. Tomoko Yui, Tomoki Ishikura, <u>Sung-Gwi Cho</u>, Ming Ding, Jun Takamatsu and Tsukasa Ogasawara, “A Quantitative Measurement of Hand Scaling Motion for Dental Hygienist Training,” in Proceedings of the Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), pp. 6040-6043, Online, Jul, 2020.
+1. <u>Sung-Gwi Cho</u>, Tetsuya Kurasumi, Masahiro Yoshikawa, Ming Ding, Jun Takamatsu and Tsukasa Ogasawara, “Estimation of Forearm Pose Based on Upper Arm Deformation Using a Deep Neural Network,” in Proceedings of the IEEE International Conference on Robotics and Biomimetics (ROBIO), pp. 1245-1250, Dali, China, Dec, 2019.
+1. Tetsuya Kurasumi, <u>Sung-Gwi Cho</u>, Ming Ding, Gustavo Alfonso Garcia Ricardez, Jun Takamatsu and Tsukasa Ogasawara, "Simultaneous Estimation of Elbow Joint Angle and Load Based on Upper Arm Deformation", in Proceedings of the IEEE International Conference on Cyborg and Bionic Systems (CBS), pp. 136-141, Munich, Germany, Sep, 2019.
+1. Mikihisa Nagashima, <u>Sung-Gwi Cho</u>, Ming Ding, Jun Takamatsu and Tsukasa Ogasawara, "Prediction of Plantar Forces During Gait Using Wearable Sensors and Deep Neural Networks", in Proceedings of the Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), pp. 3629-3632, Berlin, Germany, Jul, 2019.
+1. <u>Sung-Gwi Cho</u>, Masahiro Yoshikawa, Ming Ding, Jun Takamatsu and Tsukasa Ogasawara, "Estimation of Hand Motion Based on Forearm Deformation," in Proceedings of the IEEE International Conference on Robotics and Biomimetics (ROBIO), pp. 2291-2296, Kuala Lumpur, Malaysia, Dec, 2018.
+1. Felix von Drigalski, Marcus Gall, <u>Sung-Gwi Cho</u>, Ming Ding, Jun Takamatsu, Tsukasa Ogasawar and Tamim Asfour: “Textile Identification Using Fingertip Motion and 3D Force Sensors in an Open-Source Gripper,” in Proceedings of the IEEE International Conference on Robotics and Biomimetics (ROBIO), pp. 424-429, Macau SAR, China, 2017. 
+1. <u>Sung-Gwi Cho</u>, Masahiro Yoshikawa, Ming Ding, Jun Takamatsu and Tsukasa Ogasawara, "Hand Motion Recognition Using a Distance Sensor Array," in Proceedings of the IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN), pp. 1459-1484, Lisbon, Portugal, Aug, 2017.
+1. Felix von Drigalski, Daiki Yoshioka, Wataru Yamazaki, <u>Sung-Gwi Cho</u>, Marcus Gall, Pedro Miguel Uriguen Eljuri, Viktor Hoerig, Jessica Beltran, Ming Ding, Jun Takamatsu and Tsukasa Ogasawara, "NAIST Openhand M2S: A Versatile Two-Finger Gripper Adapted for Pulling and Tucking Textile," in Proceedings of the IEEE International Conference on Robotic Computing (IRC), pp. 117-122, Taiwan, Taichung, Apr, 2017
+1. <u>Sung-Gwi Cho</u>, Masahiro Yoshikawa, Kohei Baba, Kazunori Ogawa, Jun Takamatsu and Tsukasa Ogasawara, "Hand Motion Recognition Based on Forearm Deformation Measured with A Distance Sensor Array," in Proceedings of the Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), pp.4955-4958, Orland, USA, Aug, 2016.
 
 **Domestic conference**
 1. <u>趙 崇貴</u>, 倉角 哲也, 吉川 雅博, 丁 明, 高松 淳, 小笠原 司：“深層学習を用いた上腕形状変化に基づく肘と前腕の関節角度推定,” 第37回日本ロボット学会学術講演会（RSJ2019）, 1N2-02, 2019. 
@@ -71,11 +86,14 @@ Advised by Professor Tsukasa Ogasawara
 1. <u>趙 崇貴</u>, 神田 将輝, 吉川 雅博, 高松 淳, 小笠原 司: "箸による食事支援を目的とした電動義手の開発," 日本家政学会第68回大会, P-138, 名古屋, 5月, 2016.
 
 ## Technical skills
-Programming: Python, C/C++/C#, Java, Matlab, R  
-Tools: Git, Tex, Visual Studio, ROS, 3DCAD (Fusion360, Inventor), Arduino, Processing  
-Language: Korean, Japanese, English  
+Programming: Python, C/C++/C#, Java, Matlab, R\
+Tools: Git, Tex, Visual Studio, ROS, 3DCAD (Fusion360, Inventor), Arduino, Processing\
+Language: Korean, Japanese, English
 
 ## Societies
-Institute of Electrical and Electronics Engineers (IEEE)  
-The Robotics Society of Japan (RSJ)  
-The Japan Society of Mechanical Engineering (JSME)  
+Institute of Electrical and Electronics Engineers (IEEE)\
+The Robotics Society of Japan (RSJ)\
+The Japan Society of Mechanical Engineering (JSME)\
+The Society of Instrument and Control Engineers (SICE)\
+The Society of Life Support Engineering (LSE)
+
