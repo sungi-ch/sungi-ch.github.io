@@ -13,14 +13,19 @@ Main topic: Estimation and analysis of upper limb motion\
 Research fields: Life support engineering, human-machine Interface
 
 ## Professional Experence
-Assistant Professor (Apr./2022 - Mar./2024)\
+Assistant Professor (Apr./2022 - Mar./2023)\
 Biomechatronics Laboratory,\
 Division of Electronic Engineering,\
 School of Science and Engineering,\
 Tokyo Denki University
 
+Visiting Assistant Professor (Apr./2022 - Mar./2023)\
+Human Robotics Laboratory, Information Science Division,\
+Graduate school of Science and Technology,\
+Nara Institute of Science and Technology
+
 Assistant Professor (Apr./2020 - Mar./2022)\
-Robotics Laboratory, Information Science Division,\
+Robotics Laboratory/Human Robotics Laboratory, Information Science Division,\
 Graduate school of Science and Technology,\
 Nara Institute of Science and Technology
 
@@ -37,7 +42,9 @@ Nara Institute of Science and Technology (NAIST)
 Advised by Professor Tsukasa Ogasawara  
 
 ## Funding
-1. Grant-in-Aid for Scientific Research (C), 2021-2023
+1. Grant-in-Aid for Scientific Research (C), 2024-2026.
+1. Research grant, Casio Science Promotion Foundation, 2022-2023.
+1. Grant-in-Aid for Scientific Research (C), 2021-2023.
 1. Grant-in-Aid for Young Scientists (Start-up), 2020-2021.
 1. Research grant (C) (grant number 2187007), Tateisi Science and Technology Foundation, 2018-2020.
 1. The Creative and International Competitiveness Project (CICP) of Nara Institute of Science and Technology (NAIST), 2017.
@@ -56,7 +63,10 @@ Advised by Professor Tsukasa Ogasawara
 1. Tomoki Ishikura, Wataru Sato, Jun Takamatsu, Akishige Yuguchi, <u>Sung-Gwi Cho</u>, Ming Ding, Sakiko Yoshikawa, Tsukasa Ogasawara, "Delivery of pleasant stroke touch via robot in older adults," Frontiers in psychology, vol. 14, pp. 1292178-1292178.
 1. 湯口彰重, 豊田真行, 趙崇貴, 吉野幸一郎, 高松淳, 中澤篤志, 小笠原司, "曲面板を用いた赤外線漏れ全反射方式でのユマニチュードの触れ始めの解析のための接触面情報の取得", 日本ロボット学会誌, 41巻, 10号, pp. 893-896, 2023.
 
-**International conference (Full paper)**
+**International conference**
+1. Takuya Shimomura, <u>Sung-Gwi Cho</u>, Hirochika Matsui and Kengo Ohnishi, “Signal Response Investigation of Skin Deformation and sEMG on the Biceps Brachii Muscle During Isometric Elbow Flexion,” in Proceedings of the IEEE SENSORS 2024, pp. 1-4, Kobe, Japan, Oct, 2024.
+1. Hirochika Matsui, Kengo Ohnishi and <u>Sung-Gwi Cho</u>, “Analysis of the Relation Between Shoulder Joint Angle and Bioelectrical Impedance on Deltoid Muscle,” in Proceedings of the IEEE SENSORS 2024, pp. 1-4, Kobe, Japan, Oct, 2024.
+1. <u>Sung-Gwi Cho</u>, Takuya Shimomura, and Kengo Ohnishi, “Extraction of Voluntary Muscle Contraction Based on PCA Reconstruction Error with a Reference of Skin Deformation at Passive Movement,” in Proceedings of the IEEE SENSORS 2024, pp. 1-4, Kobe, Japan, Oct, 2024.
 1. <u>Sung-Gwi Cho</u>, Shinnosuke Odan, Masahiro Yoshikawa and Kengo Ohnishi, “Wrist Joint Angle Estimation Based on Simultaneous Measurement of Distance and Force on the Forearm,” in Proceedings of the Annual Conference of the Society of Instrument and Control Engineers (SICE), pp. 964-969, Mie, Japan, Sep, 2023.
 1. Akihiko Tsukahara, <u>Sung-Gwi Cho</u>, Keita Tanaka, Akihiko Homma and Yoshinori Uchikawa, “Design and Trial Production FPGA based Stochastic Resonance Circuit Using LVDS and an Examination for Surface EMG Measurement,” in Proceedings of the Annual Conference of the Society of Instrument and Control Engineers (SICE), pp. 345-350, Mie, Japan, Sep, 2023.
 1. Hirochika Matsui, Kengo Ohnishi and <u>Sung-Gwi Cho</u>, “Skin Impedance Estimation System for Voltage-mode Electrical Stimulator with an AC Bridge Circuit,” in Proceedings of the Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), pp. 1-4, Sydney, Australia, Jul, 2021.
@@ -79,7 +89,7 @@ Advised by Professor Tsukasa Ogasawara
 1. <u>趙 崇貴</u>, 吉川 雅博, 丁 明, 高松 淳, 小笠原 司: “距離センサアレイを用いた上腕形状計測に基づく肘関節角度の推定,” 第36回日本ロボット学会学術講演会（RSJ2018）, 3A1-05, 春日井, 9月, 2018. 
 1. <u>趙 崇貴</u>, 清川 拓哉, 友近 圭汰, 吉川 雅博, 小笠原 司: "前腕形状計測に基づく手の動作認識によるロボットアームの操作," ヒューマンインタフェースシンポジウム2017, pp.941-944, 大阪, 9月, 2017.
 1. <u>趙 崇貴</u>, 吉川 雅博, 丁 明, 高松 淳, 小笠原 司: "距離センサアレイを用いた前腕形状計測に基づく手の関節角度の推定," ロボティクス・メカトロニクス講演会2017 (ROBOMECH2017), pp.2P2-M07, 郡山, 6月, 2017.
-1. Felix von Drigalski, Daiki Yoshioka, Marcus Gall, Pedro Miguel Uriguen Eljuri, Wataru Yamazaki, <u>Sung-Gwi Cho</u>, Viktor Hoerig, Jessica Beltran,, Ming Ding, Jun Takamatsu and Tsukasa Ogasawara: "A robotic system for automated bed-making using a gripper specialized for textile manipulation", ロボティクス・メカトロニクス講演会2017 (ROBOMECH2017), 2P2-G10, 郡山, 6月, 2017.
+1. Felix von Drigalski, Daiki Yoshioka, Marcus Gall, Pedro Miguel Uriguen Eljuri, Wataru Yamazaki, <u>Sung-Gwi Cho</u>, Viktor Hoerig, Jessica Beltran, Ming Ding, Jun Takamatsu and Tsukasa Ogasawara: "A robotic system for automated bed-making using a gripper specialized for textile manipulation", ロボティクス・メカトロニクス講演会2017 (ROBOMECH2017), 2P2-G10, 郡山, 6月, 2017.
 1. Viktor Hoerig, Felix von Drigalski, Daiki Yoshioka, Marcus Gall, Pedro Miguel Uriguen Eljuri, Wataru Yamazaki, <u>Sung-Gwi Cho</u>, Jessica Beltran, Ming Ding, Jun Takamatsu and Tsukasa Ogasawara: "Development of an Elastic Finger Joint of a Robotic Gripper For Picking Up Thin, Easily Deformable Objects," ロボティクス・メカトロニクス講演会2017 (ROBOMECH2017), 2P1-D08, 郡山, 6月, 2017.
 1. <u>趙 崇貴</u>, 吉川 雅博, 丁 明, 高松 淳, 小笠原 司: "前腕の三次元モデルに基づく距離センサアレイによる手の動作認識," 第17回計測自動制御学会システムインテグレーション部門講演会（SI2016）, 3K3-2, 札幌, 12月, 2016.
 1. 神田 将輝, <u>趙 崇貴</u>, 吉川 雅博, 高松 淳, 小笠原 司: "シーンに応じてエンドエフェクタを換装可能な2自由度電動義手," ロボティクスメカトロニクス講演会2016 (ROBOMECH2016), 2A1-02a4, 横浜, 6月, 2016.
@@ -92,8 +102,6 @@ Language: Korean, Japanese, English
 
 ## Societies
 Institute of Electrical and Electronics Engineers (IEEE)\
-The Robotics Society of Japan (RSJ)\
-The Japan Society of Mechanical Engineering (JSME)\
 The Society of Instrument and Control Engineers (SICE)\
 The Society of Life Support Engineering (LSE)
 
