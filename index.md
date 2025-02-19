@@ -12,7 +12,7 @@ Tokyo Denki University
 Main topic: Estimation and analysis of upper limb motion\
 Research fields: Life support engineering, human-machine Interface
 
-## Professional Experence
+## Professional Experience
 Assistant Professor (Apr./2022 - Mar./2023)\
 Biomechatronics Laboratory,\
 Division of Electronic Engineering,\
@@ -51,19 +51,19 @@ Advised by Professor Tsukasa Ogasawara
 1. The Creative and International Competitiveness Project (CICP) of Nara Institute of Science and Technology (NAIST), 2016.
 
 ## Publications
-**Journal**
-1. <u>Sung-Gwi Cho</u>, Muhammad Akmal Bin Mohammed Zaffir, Masahiro Yoshikawa, Jun Takamatsu and Takahiro Wada: “Influence of Forearm Postures on Hand-Wrist Gesture Recognition With Forearm Deformation Measurements”, IEEE Transactions on Medical Robotics and Bionics, 2024.
+**Journal (peer-reviewed)**
+1. <u>Sung-Gwi Cho</u>, Muhammad Akmal Bin Mohammed Zaffir, Masahiro Yoshikawa, Jun Takamatsu and Takahiro Wada: “Influence of Forearm Postures on Hand-Wrist Gesture Recognition With Forearm Deformation Measurements,” IEEE Transactions on Medical Robotics and Bionics, 2024.
 1. Tomoki Ishikura, Yuki Kitamura, Wataru Sato, Jun Takamatsu, Akishige Yuguchi, <u>Sung-Gwi Cho</u>, Ming Ding, Sakiko Yoshikawa and Tsukasa Ogasawara: “Pleasant stroke touch on human back by a human and a robot,” Sensors, vol. 23, no. 3, pp. 1136, 2020.
 1. Tomoko Yui, <u>Sung-Gwi Cho</u>, Yuki Sato, Yasuaki Orita, Ming Ding, Jun Takamatsu, Takahiro Wada and Tsukasa Ogasawara: “Evaluation of Hand-Scaling Skills of Dental Hygienist Students: Identification of Contact Between Hand-Scaler Blade Tip and Tooth Surface”, IEEE Access, vol. 10, pp. 120640-120649, 2022.
 1. Tetsuya Kurasumi, <u>Sung-Gwi Cho</u>, Ming Ding, Gustavo Alfonso Garcia Ricardez, Masahiro Yoshikawa, Jun Takamatsu and Tsukasa Ogasawara: “Simultaneous Estimation of Upper Limb Pose and Joint Torque Based on Upper Arm Deformation,” IEEE Transactions on Medical Robotics and Bionics, vol. 2, no. 3, pp. 374-381, 2020.
 1. Ming Ding, Mikihisa Nagashima, <u>Sung-Gwi Cho</u>, Jun Takamatsu and Tsukasa Ogasawara: “Control of Walking Assist Exoskeleton With Time-delay Based on the Prediction of Plantar Force,” IEEE Access, vol. 8, pp. 138642-138651, 2020. 
 1. <u>Sung-Gwi Cho</u>, Masahiro Yoshikawa, Ming Ding, Jun Takamatsu, and Tsukasa Ogasawara, “Machine-learning-based Hand Motion Recognition System by Measuring Forearm Deformation with a Distance Sensor Array,” International Journal of Intelligent Robotics and Applications, vol. 3, no. 4, pp. 418-429, 2019.
 
-**Letter, Brief Resaerch report**
+**Letter and Brief Research report (peer-reviewed)**
 1. Tomoki Ishikura, Wataru Sato, Jun Takamatsu, Akishige Yuguchi, <u>Sung-Gwi Cho</u>, Ming Ding, Sakiko Yoshikawa, Tsukasa Ogasawara, "Delivery of pleasant stroke touch via robot in older adults," Frontiers in psychology, vol. 14, pp. 1292178-1292178.
 1. 湯口彰重, 豊田真行, 趙崇貴, 吉野幸一郎, 高松淳, 中澤篤志, 小笠原司, "曲面板を用いた赤外線漏れ全反射方式でのユマニチュードの触れ始めの解析のための接触面情報の取得", 日本ロボット学会誌, 41巻, 10号, pp. 893-896, 2023.
 
-**International conference**
+**International conference (peer-reviewed)**
 1. Takuya Shimomura, <u>Sung-Gwi Cho</u>, Hirochika Matsui and Kengo Ohnishi, “Signal Response Investigation of Skin Deformation and sEMG on the Biceps Brachii Muscle During Isometric Elbow Flexion,” in Proceedings of the IEEE SENSORS 2024, pp. 1-4, Kobe, Japan, Oct, 2024.
 1. Hirochika Matsui, Kengo Ohnishi and <u>Sung-Gwi Cho</u>, “Analysis of the Relation Between Shoulder Joint Angle and Bioelectrical Impedance on Deltoid Muscle,” in Proceedings of the IEEE SENSORS 2024, pp. 1-4, Kobe, Japan, Oct, 2024.
 1. <u>Sung-Gwi Cho</u>, Takuya Shimomura, and Kengo Ohnishi, “Extraction of Voluntary Muscle Contraction Based on PCA Reconstruction Error with a Reference of Skin Deformation at Passive Movement,” in Proceedings of the IEEE SENSORS 2024, pp. 1-4, Kobe, Japan, Oct, 2024.
